@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/ui": "^4.1",
+        "intervention/image": "^2.7"
+    }
+}
